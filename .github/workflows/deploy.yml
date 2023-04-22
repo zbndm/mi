@@ -14,7 +14,7 @@ jobs:
 
     environment: 
       name: this
-      url: https://github.com/ka9an/denopendabot
+      url: https://github.com/ka9an/this
 
     env:
       TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
